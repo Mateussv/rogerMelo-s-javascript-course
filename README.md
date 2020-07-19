@@ -1,3 +1,3 @@
 # Roger Melo's Javascript Course
  
- Some exercises performed in Roger Melo's javascript course.
+ Some exercises performed in course.
