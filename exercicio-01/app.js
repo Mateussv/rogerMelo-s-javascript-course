@@ -25,7 +25,7 @@ Utilize os espaços entre os comentários abaixo para executar os códigos dos
 exercícios. Inclusive o alert mencionado acima.
 */
 
-// alert('hi')
+// alert('hi');
 
 /*
 04 - Comente o alert que você escreveu acima, utilizando o comentário de uma linha.
@@ -74,7 +74,7 @@ matemáticas e strings (textos) em breve =)
 */
 const ten = 10;
 
-console.log(`Em ${currentYear + ten}, estarei com ${myAge + ten} anos.`)
+console.log(`Em ${currentYear + ten}, estarei com ${myAge + ten} anos.`);
 
 /*
 10 - Abra o site abaixo no browser e faça o seguinte:
